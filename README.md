@@ -1,16 +1,23 @@
-# cart_bloc
+# Family Group app
 
-A new Flutter project.
+This is a family hal messages or Family Group app that can any group chats with eatch other and the messages is like a waterful
+coming one after another and the message sure can be eddited and this has been done by using firebase within the application...
 
-## Getting Started
+## 📸 App Images
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🔑 Login
+<img src="https://github.com/user-attachments/assets/d9f5702a-0090-4155-9727-6840a7be9a07" width=700 height=1400>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🔐 Register
+<img src="https://github.com/user-attachments/assets/1a7a9431-f186-40c0-9c6c-51ec56d836a5" width=700 height=1400>
+
+
+
+## 🏠 Home
+<img src="https://github.com/user-attachments/assets/c2bbff2c-e972-4d2b-abf6-26011e03a8da" width=700 height=1400>
+
+
+
